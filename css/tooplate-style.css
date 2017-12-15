@@ -968,6 +968,11 @@ body.lb-disable-scrolling {
   }
 }
 
+@media (max-width: 992px){
+    .contact-input-name {
+        margin-top: 30px;
+    }
+}
 
 @media (max-width: 1015px){
 	.slide-caption .content-caption p {
@@ -996,4 +1001,5 @@ body.lb-disable-scrolling {
 	footer ul {
 		float: none;
 	}
+
 }
